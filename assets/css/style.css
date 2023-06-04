@@ -6,6 +6,9 @@
   margin: 0px 0px;
   padding: 0px 0px;
 }
+html{
+  scroll-behavior: smooth;
+}
 
 section {
   margin-top: 40px;
